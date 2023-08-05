@@ -1,7 +1,7 @@
 # Two Sums
 
 ## Whiteboard
-![Two Sums whiteboard](https://example.com/images/twoSums.png)
+![Two Sums whiteboard](./imgs/twoSums.png)
 
 
 ## Algorithm
